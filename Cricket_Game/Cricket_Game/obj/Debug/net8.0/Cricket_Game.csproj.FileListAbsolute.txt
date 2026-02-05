@@ -1,0 +1,14 @@
+D:\Source\c sharp\Exercise\Day 09\Cricket_Game\Cricket_Game\bin\Debug\net8.0\Cricket_Game.exe
+D:\Source\c sharp\Exercise\Day 09\Cricket_Game\Cricket_Game\bin\Debug\net8.0\Cricket_Game.deps.json
+D:\Source\c sharp\Exercise\Day 09\Cricket_Game\Cricket_Game\bin\Debug\net8.0\Cricket_Game.runtimeconfig.json
+D:\Source\c sharp\Exercise\Day 09\Cricket_Game\Cricket_Game\bin\Debug\net8.0\Cricket_Game.dll
+D:\Source\c sharp\Exercise\Day 09\Cricket_Game\Cricket_Game\bin\Debug\net8.0\Cricket_Game.pdb
+D:\Source\c sharp\Exercise\Day 09\Cricket_Game\Cricket_Game\obj\Debug\net8.0\Cricket_Game.GeneratedMSBuildEditorConfig.editorconfig
+D:\Source\c sharp\Exercise\Day 09\Cricket_Game\Cricket_Game\obj\Debug\net8.0\Cricket_Game.AssemblyInfoInputs.cache
+D:\Source\c sharp\Exercise\Day 09\Cricket_Game\Cricket_Game\obj\Debug\net8.0\Cricket_Game.AssemblyInfo.cs
+D:\Source\c sharp\Exercise\Day 09\Cricket_Game\Cricket_Game\obj\Debug\net8.0\Cricket_Game.csproj.CoreCompileInputs.cache
+D:\Source\c sharp\Exercise\Day 09\Cricket_Game\Cricket_Game\obj\Debug\net8.0\Cricket_Game.dll
+D:\Source\c sharp\Exercise\Day 09\Cricket_Game\Cricket_Game\obj\Debug\net8.0\refint\Cricket_Game.dll
+D:\Source\c sharp\Exercise\Day 09\Cricket_Game\Cricket_Game\obj\Debug\net8.0\Cricket_Game.pdb
+D:\Source\c sharp\Exercise\Day 09\Cricket_Game\Cricket_Game\obj\Debug\net8.0\Cricket_Game.genruntimeconfig.cache
+D:\Source\c sharp\Exercise\Day 09\Cricket_Game\Cricket_Game\obj\Debug\net8.0\ref\Cricket_Game.dll
